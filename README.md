@@ -42,3 +42,10 @@ This is a simple contact form built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 📂 File Structure
 
+
+contact-form/
+│
+├── index.html
+├── styles.css
+└── script.js
+
